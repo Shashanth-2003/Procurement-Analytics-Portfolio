@@ -1,0 +1,201 @@
+PO_Number,PO_Date,Vendor_ID,Vendor_Name,Category,Department,Approver,Quantity,Unit_Price_INR,PO_Value_INR,Discount_Percent,Final_Value_INR,Payment_Terms,Expected_Delivery_Date,Actual_Delivery_Date,Status,On_Time_Delivery,Delay_Days,Invoice_Received,Payment_Done
+PO-2024-0001,27-02-2024,V011,Infra Solutions India,Services,R&D,Suresh Patel,130,3503.52,455457.6,7,423575.57,Net 30,05-03-2024,,Pending,N/A,,No,No
+PO-2024-0002,29-10-2024,V002,Apex Components Pvt Ltd,Components,IT,Divya Menon,18,8506.43,153115.74,7,142397.64,Immediate,28-11-2024,28-11-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0003,22-03-2024,V001,Sharma Industrials,Raw Materials,Quality,Arun Sharma,199,1631.4,324648.6,10,292183.74,Net 60,21-04-2024,21-04-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0004,04-03-2024,V009,Bangalore Office Supplies,Office Supplies,Production,Priya Nair,190,8744.81,1661513.9,7,1545207.93,Net 30,03-04-2024,13-04-2024,Delivered,No,10,Yes,Yes
+PO-2024-0005,29-04-2024,V014,Sri Lakshmi Traders,Raw Materials,Quality,Priya Nair,186,3300.7,613930.2,0,613930.2,Net 30,06-05-2024,06-05-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0006,13-07-2024,V008,Krishna Auto Parts,Components,Production,Priya Nair,332,10384.8,3447753.6,0,3447753.6,Net 60,03-08-2024,,Cancelled,N/A,,No,No
+PO-2024-0007,17-01-2024,V014,Sri Lakshmi Traders,Raw Materials,R&D,Divya Menon,166,3346.87,555580.42,2,544468.81,Immediate,07-02-2024,12-02-2024,Delivered,No,5,Yes,No
+PO-2024-0008,14-10-2024,V012,Coromandel Components,Components,Production,Rajesh Kumar,117,14960.42,1750369.14,0,1750369.14,Immediate,28-11-2024,28-11-2024,Delivered,Yes,0,Yes,No
+PO-2024-0009,14-12-2024,V003,GlobalTech Supplies,IT Equipment,R&D,Rajesh Kumar,275,3920.93,1078255.75,5,1024342.96,Net 30,13-01-2025,02-02-2025,Delivered,No,20,Yes,Yes
+PO-2024-0010,24-11-2024,V005,Mehta Steel Works,Raw Materials,Quality,Rajesh Kumar,374,13162.62,4922819.88,0,4922819.88,Net 45,15-12-2024,15-12-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0011,16-09-2024,V011,Infra Solutions India,Services,Logistics,Rajesh Kumar,403,13852.02,5582364.06,0,5582364.06,Net 60,31-10-2024,31-10-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0012,06-06-2024,V014,Sri Lakshmi Traders,Raw Materials,IT,Divya Menon,422,1224.35,516675.7,10,465008.13,Net 45,20-06-2024,23-06-2024,Delivered,No,3,Yes,No
+PO-2024-0013,06-11-2024,V009,Bangalore Office Supplies,Office Supplies,R&D,Arun Sharma,480,8181.58,3927158.4,7,3652257.31,Net 45,06-12-2024,,Cancelled,N/A,,No,No
+PO-2024-0014,09-12-2024,V007,Patel Packaging Ltd,Packaging,Quality,Priya Nair,37,5203.67,192535.79,5,182909,Net 45,30-12-2024,30-12-2024,Delivered,Yes,0,No,No
+PO-2024-0015,19-11-2024,V012,Coromandel Components,Components,Quality,Priya Nair,126,4321.46,544503.96,2,533613.88,Net 45,26-11-2024,26-11-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0016,30-08-2024,V010,Reddy Manufacturing,Raw Materials,R&D,Divya Menon,418,6224.49,2601836.82,0,2601836.82,Net 30,13-09-2024,,Pending,N/A,,No,No
+PO-2024-0017,04-08-2024,V006,SunTech Electronics,IT Equipment,IT,Priya Nair,377,5221.68,1968573.36,10,1771716.02,Net 30,03-09-2024,03-09-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0018,03-04-2024,V007,Patel Packaging Ltd,Packaging,Production,Priya Nair,338,14989.38,5066410.44,10,4559769.4,Net 30,24-04-2024,24-04-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0019,24-07-2024,V004,Nair Logistics Co,Packaging,IT,Priya Nair,406,6934.12,2815252.72,2,2758947.67,Immediate,31-07-2024,15-08-2024,Delivered,No,15,Yes,Yes
+PO-2024-0020,04-10-2024,V010,Reddy Manufacturing,Raw Materials,Production,Suresh Patel,34,942.11,32031.74,2,31391.11,Net 45,11-10-2024,,Pending,N/A,,No,No
+PO-2024-0021,05-04-2024,V002,Apex Components Pvt Ltd,Components,Quality,Rajesh Kumar,487,13376.25,6514233.75,0,6514233.75,Net 30,12-04-2024,12-04-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0022,10-06-2024,V009,Bangalore Office Supplies,Office Supplies,Admin,Rajesh Kumar,72,10141.02,730153.44,0,730153.44,Immediate,01-07-2024,01-07-2024,Delivered,Yes,0,No,No
+PO-2024-0023,15-10-2024,V010,Reddy Manufacturing,Raw Materials,Admin,Priya Nair,183,13236.79,2422332.57,0,2422332.57,Net 60,22-10-2024,22-10-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0024,09-11-2024,V005,Mehta Steel Works,Raw Materials,Admin,Arun Sharma,73,4114.1,300329.3,0,300329.3,Net 45,24-12-2024,05-01-2025,Delivered,No,12,Yes,Yes
+PO-2024-0025,17-12-2024,V004,Nair Logistics Co,Packaging,Admin,Priya Nair,221,12474.35,2756831.35,0,2756831.35,Net 30,07-01-2025,07-01-2025,Delivered,Yes,0,Yes,Yes
+PO-2024-0026,14-08-2024,V012,Coromandel Components,Components,Quality,Rajesh Kumar,292,343.11,100188.12,0,100188.12,Net 45,28-09-2024,,Pending,N/A,,No,No
+PO-2024-0027,08-07-2024,V014,Sri Lakshmi Traders,Raw Materials,Admin,Priya Nair,465,14009.7,6514510.5,10,5863059.45,Net 30,22-08-2024,22-08-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0028,13-10-2024,V006,SunTech Electronics,IT Equipment,IT,Divya Menon,388,2487.39,965107.32,0,965107.32,Net 45,12-11-2024,,Cancelled,N/A,,No,No
+PO-2024-0029,01-04-2024,V001,Sharma Industrials,Raw Materials,Admin,Priya Nair,215,12073.08,2595712.2,10,2336140.98,Net 45,22-04-2024,,Pending,N/A,,No,No
+PO-2024-0030,25-12-2024,V013,Tech Vision Pvt Ltd,IT Equipment,IT,Priya Nair,423,13793.09,5834477.07,0,5834477.07,Net 60,01-01-2025,01-01-2025,Delivered,Yes,0,No,No
+PO-2024-0031,23-07-2024,V004,Nair Logistics Co,Packaging,Production,Rajesh Kumar,265,6115.24,1620538.6,10,1458484.74,Net 60,13-08-2024,13-08-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0032,15-05-2024,V010,Reddy Manufacturing,Raw Materials,Admin,Rajesh Kumar,266,1911.56,508474.96,5,483051.21,Net 45,22-05-2024,22-05-2024,Delivered,Yes,0,Yes,No
+PO-2024-0033,02-10-2024,V015,Deccan Packaging Co,Packaging,Quality,Arun Sharma,344,12750.63,4386216.72,7,4079181.55,Net 60,16-10-2024,17-10-2024,Delivered,No,1,Yes,Yes
+PO-2024-0034,31-05-2024,V012,Coromandel Components,Components,Logistics,Suresh Patel,467,2775.6,1296205.2,5,1231394.94,Net 60,15-07-2024,17-07-2024,Delivered,No,2,Yes,Yes
+PO-2024-0035,08-08-2024,V004,Nair Logistics Co,Packaging,R&D,Rajesh Kumar,114,7765.38,885253.32,10,796727.99,Net 45,22-09-2024,22-09-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0036,20-06-2024,V010,Reddy Manufacturing,Raw Materials,IT,Priya Nair,389,3676.06,1429987.34,0,1429987.34,Net 45,27-06-2024,,In Transit,N/A,,No,No
+PO-2024-0037,24-01-2024,V001,Sharma Industrials,Raw Materials,Logistics,Suresh Patel,317,12776.12,4050030.04,0,4050030.04,Immediate,07-02-2024,,Cancelled,N/A,,No,No
+PO-2024-0038,22-12-2024,V004,Nair Logistics Co,Packaging,IT,Priya Nair,445,11596.68,5160522.6,0,5160522.6,Immediate,21-01-2025,26-01-2025,Delivered,No,5,Yes,Yes
+PO-2024-0039,26-01-2024,V008,Krishna Auto Parts,Components,Logistics,Suresh Patel,346,8060.75,2789019.5,5,2649568.52,Net 60,11-03-2024,18-03-2024,Delivered,No,7,Yes,Yes
+PO-2024-0040,07-10-2024,V007,Patel Packaging Ltd,Packaging,IT,Arun Sharma,385,12950.12,4985796.2,2,4886080.28,Net 60,06-11-2024,,In Transit,N/A,,No,No
+PO-2024-0041,23-09-2024,V013,Tech Vision Pvt Ltd,IT Equipment,IT,Priya Nair,125,4221.38,527672.5,0,527672.5,Net 30,23-10-2024,25-10-2024,Delivered,No,2,Yes,Yes
+PO-2024-0042,19-04-2024,V012,Coromandel Components,Components,Quality,Divya Menon,110,12526.79,1377946.9,2,1350387.96,Net 30,26-04-2024,26-04-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0043,18-07-2024,V005,Mehta Steel Works,Raw Materials,Production,Divya Menon,254,3447.44,875649.76,2,858136.76,Immediate,17-08-2024,25-08-2024,Delivered,No,8,Yes,Yes
+PO-2024-0044,25-03-2024,V007,Patel Packaging Ltd,Packaging,Production,Divya Menon,323,8105.03,2617924.69,2,2565566.2,Net 30,24-04-2024,,Cancelled,N/A,,No,No
+PO-2024-0045,24-08-2024,V003,GlobalTech Supplies,IT Equipment,Logistics,Arun Sharma,177,11466.2,2029517.4,2,1988927.05,Net 60,07-09-2024,07-09-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0046,03-10-2024,V012,Coromandel Components,Components,Production,Priya Nair,184,3518.49,647402.16,0,647402.16,Net 30,10-10-2024,,Cancelled,N/A,,No,No
+PO-2024-0047,11-01-2024,V004,Nair Logistics Co,Packaging,IT,Suresh Patel,116,7082.5,821570,0,821570,Net 60,25-02-2024,25-02-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0048,24-03-2024,V002,Apex Components Pvt Ltd,Components,Production,Suresh Patel,495,5754.54,2848497.3,7,2649102.49,Net 45,14-04-2024,15-04-2024,Delivered,No,1,Yes,Yes
+PO-2024-0049,22-12-2024,V002,Apex Components Pvt Ltd,Components,Admin,Suresh Patel,312,12121.81,3782004.72,10,3403804.25,Net 30,12-01-2025,,In Transit,N/A,,No,No
+PO-2024-0050,04-12-2024,V007,Patel Packaging Ltd,Packaging,R&D,Divya Menon,426,7454.99,3175825.74,2,3112309.23,Net 60,25-12-2024,31-12-2024,Delivered,No,6,Yes,Yes
+PO-2024-0051,24-09-2024,V012,Coromandel Components,Components,IT,Rajesh Kumar,427,11019.19,4705194.13,0,4705194.13,Net 60,15-10-2024,15-10-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0052,25-08-2024,V013,Tech Vision Pvt Ltd,IT Equipment,Admin,Arun Sharma,171,2891.23,494400.33,0,494400.33,Net 60,09-10-2024,09-10-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0053,21-05-2024,V015,Deccan Packaging Co,Packaging,R&D,Divya Menon,255,8416.61,2146235.55,0,2146235.55,Immediate,05-07-2024,06-07-2024,Delivered,No,1,Yes,No
+PO-2024-0054,23-04-2024,V005,Mehta Steel Works,Raw Materials,Quality,Suresh Patel,161,10026.61,1614284.21,0,1614284.21,Immediate,23-05-2024,,Pending,N/A,,No,No
+PO-2024-0055,05-08-2024,V006,SunTech Electronics,IT Equipment,Production,Suresh Patel,123,1985.71,244242.33,0,244242.33,Net 60,19-09-2024,19-09-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0056,20-04-2024,V004,Nair Logistics Co,Packaging,Admin,Priya Nair,56,12522.9,701282.4,0,701282.4,Net 45,20-05-2024,20-05-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0057,20-05-2024,V003,GlobalTech Supplies,IT Equipment,Production,Rajesh Kumar,288,4523.62,1302802.56,0,1302802.56,Immediate,27-05-2024,,Cancelled,N/A,,No,No
+PO-2024-0058,25-05-2024,V010,Reddy Manufacturing,Raw Materials,Logistics,Divya Menon,446,7270.39,3242593.94,10,2918334.55,Net 30,24-06-2024,24-06-2024,Delivered,Yes,0,No,No
+PO-2024-0059,17-12-2024,V011,Infra Solutions India,Services,Quality,Divya Menon,65,8459.48,549866.2,2,538868.88,Net 45,24-12-2024,05-01-2025,Delivered,No,12,Yes,Yes
+PO-2024-0060,28-10-2024,V014,Sri Lakshmi Traders,Raw Materials,Admin,Rajesh Kumar,55,14224.33,782338.15,0,782338.15,Net 45,27-11-2024,17-12-2024,Delivered,No,20,Yes,No
+PO-2024-0061,21-03-2024,V002,Apex Components Pvt Ltd,Components,Production,Priya Nair,123,4463.95,549065.85,0,549065.85,Immediate,28-03-2024,28-03-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0062,28-10-2024,V011,Infra Solutions India,Services,Admin,Suresh Patel,428,2305.1,986582.8,0,986582.8,Net 45,11-11-2024,16-11-2024,Delivered,No,5,Yes,Yes
+PO-2024-0063,12-08-2024,V005,Mehta Steel Works,Raw Materials,Quality,Rajesh Kumar,261,8191.73,2138041.53,2,2095280.7,Net 30,19-08-2024,05-09-2024,Delivered,No,17,Yes,Yes
+PO-2024-0064,08-05-2024,V010,Reddy Manufacturing,Raw Materials,Quality,Rajesh Kumar,15,14993.67,224905.05,7,209161.7,Net 60,15-05-2024,15-05-2024,Delivered,Yes,0,Yes,No
+PO-2024-0065,29-11-2024,V009,Bangalore Office Supplies,Office Supplies,Production,Divya Menon,97,14954.79,1450614.63,2,1421602.34,Immediate,29-12-2024,,Cancelled,N/A,,No,No
+PO-2024-0066,28-07-2024,V006,SunTech Electronics,IT Equipment,Quality,Rajesh Kumar,360,7532.94,2711858.4,7,2522028.31,Immediate,18-08-2024,18-08-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0067,29-02-2024,V006,SunTech Electronics,IT Equipment,Logistics,Rajesh Kumar,427,14824.16,6329916.32,7,5886822.18,Immediate,30-03-2024,,In Transit,N/A,,No,No
+PO-2024-0068,22-09-2024,V004,Nair Logistics Co,Packaging,Logistics,Divya Menon,109,4152.43,452614.87,0,452614.87,Net 60,13-10-2024,15-10-2024,Delivered,No,2,Yes,Yes
+PO-2024-0069,02-05-2024,V010,Reddy Manufacturing,Raw Materials,R&D,Priya Nair,435,13711.36,5964441.6,2,5845152.77,Net 30,16-05-2024,16-05-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0070,27-12-2024,V009,Bangalore Office Supplies,Office Supplies,Production,Arun Sharma,79,5877.07,464288.53,5,441074.1,Net 45,17-01-2025,17-01-2025,Delivered,Yes,0,Yes,Yes
+PO-2024-0071,16-09-2024,V006,SunTech Electronics,IT Equipment,IT,Divya Menon,149,10945.55,1630886.95,10,1467798.25,Immediate,07-10-2024,,In Transit,N/A,,No,No
+PO-2024-0072,04-09-2024,V009,Bangalore Office Supplies,Office Supplies,Quality,Divya Menon,450,2992.06,1346427,7,1252177.11,Net 45,25-09-2024,13-10-2024,Delivered,No,18,Yes,Yes
+PO-2024-0073,11-06-2024,V001,Sharma Industrials,Raw Materials,Logistics,Rajesh Kumar,420,5842.22,2453732.4,7,2281971.13,Net 45,11-07-2024,,Pending,N/A,,No,No
+PO-2024-0074,14-09-2024,V003,GlobalTech Supplies,IT Equipment,Logistics,Priya Nair,471,6962.54,3279356.34,7,3049801.4,Net 45,29-10-2024,29-10-2024,Delivered,Yes,0,No,No
+PO-2024-0075,15-05-2024,V013,Tech Vision Pvt Ltd,IT Equipment,Admin,Divya Menon,441,10180.49,4489596.09,5,4265116.29,Immediate,05-06-2024,14-06-2024,Delivered,No,9,Yes,No
+PO-2024-0076,30-04-2024,V002,Apex Components Pvt Ltd,Components,Logistics,Priya Nair,387,1537.61,595055.07,0,595055.07,Net 30,21-05-2024,,Cancelled,N/A,,No,No
+PO-2024-0077,02-06-2024,V012,Coromandel Components,Components,IT,Priya Nair,79,3814.12,301315.48,2,295289.17,Net 45,09-06-2024,09-06-2024,Delivered,Yes,0,No,No
+PO-2024-0078,14-07-2024,V014,Sri Lakshmi Traders,Raw Materials,Logistics,Arun Sharma,259,13709.87,3550856.33,0,3550856.33,Net 45,28-08-2024,,Pending,N/A,,No,No
+PO-2024-0079,10-05-2024,V008,Krishna Auto Parts,Components,Production,Divya Menon,243,13537.9,3289709.7,7,3059430.02,Net 45,17-05-2024,,In Transit,N/A,,No,No
+PO-2024-0080,27-10-2024,V006,SunTech Electronics,IT Equipment,Production,Priya Nair,159,3148.41,500597.19,2,490585.25,Immediate,17-11-2024,17-11-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0081,24-12-2024,V005,Mehta Steel Works,Raw Materials,Quality,Divya Menon,447,10349.83,4626374.01,7,4302527.83,Net 30,14-01-2025,14-01-2025,Delivered,Yes,0,Yes,Yes
+PO-2024-0082,27-04-2024,V013,Tech Vision Pvt Ltd,IT Equipment,R&D,Priya Nair,117,9621.94,1125766.98,5,1069478.63,Net 60,11-06-2024,,In Transit,N/A,,No,No
+PO-2024-0083,19-02-2024,V011,Infra Solutions India,Services,R&D,Divya Menon,72,1533.97,110445.84,0,110445.84,Net 60,26-02-2024,26-02-2024,Delivered,Yes,0,Yes,No
+PO-2024-0084,06-07-2024,V009,Bangalore Office Supplies,Office Supplies,R&D,Arun Sharma,427,14173.98,6052289.46,10,5447060.51,Net 60,20-08-2024,20-08-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0085,13-03-2024,V002,Apex Components Pvt Ltd,Components,Production,Divya Menon,375,10181.21,3817953.75,2,3741594.67,Net 60,27-03-2024,,In Transit,N/A,,No,No
+PO-2024-0086,15-05-2024,V001,Sharma Industrials,Raw Materials,R&D,Priya Nair,426,9650.53,4111125.78,0,4111125.78,Net 30,29-06-2024,29-06-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0087,16-06-2024,V009,Bangalore Office Supplies,Office Supplies,Production,Rajesh Kumar,159,9808.74,1559589.66,0,1559589.66,Net 45,31-07-2024,09-08-2024,Delivered,No,9,Yes,Yes
+PO-2024-0088,30-04-2024,V002,Apex Components Pvt Ltd,Components,Logistics,Suresh Patel,385,10953.67,4217162.95,2,4132819.69,Net 30,14-06-2024,14-06-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0089,19-12-2024,V001,Sharma Industrials,Raw Materials,Production,Divya Menon,356,5636.56,2006615.36,7,1866152.28,Net 60,09-01-2025,09-01-2025,Delivered,Yes,0,Yes,Yes
+PO-2024-0090,20-08-2024,V014,Sri Lakshmi Traders,Raw Materials,Admin,Priya Nair,333,9664.5,3218278.5,0,3218278.5,Net 30,27-08-2024,,Pending,N/A,,No,No
+PO-2024-0091,16-10-2024,V003,GlobalTech Supplies,IT Equipment,Quality,Rajesh Kumar,450,3648.38,1641771,10,1477593.9,Net 45,30-10-2024,30-10-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0092,03-10-2024,V003,GlobalTech Supplies,IT Equipment,Production,Arun Sharma,61,9983.65,609002.65,0,609002.65,Net 45,24-10-2024,,Pending,N/A,,No,No
+PO-2024-0093,01-05-2024,V013,Tech Vision Pvt Ltd,IT Equipment,Logistics,Divya Menon,220,7986.07,1756935.4,7,1633949.92,Net 30,15-06-2024,15-06-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0094,19-08-2024,V002,Apex Components Pvt Ltd,Components,Logistics,Divya Menon,334,14467.59,4832175.06,0,4832175.06,Immediate,03-10-2024,03-10-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0095,15-08-2024,V015,Deccan Packaging Co,Packaging,Admin,Suresh Patel,169,9202.8,1555273.2,0,1555273.2,Net 45,22-08-2024,,In Transit,N/A,,No,No
+PO-2024-0096,26-10-2024,V011,Infra Solutions India,Services,Logistics,Suresh Patel,200,14920.49,2984098,5,2834893.1,Net 60,10-12-2024,,Pending,N/A,,No,No
+PO-2024-0097,08-08-2024,V010,Reddy Manufacturing,Raw Materials,Logistics,Divya Menon,63,12821.33,807743.79,7,751201.72,Net 45,15-08-2024,,Pending,N/A,,No,No
+PO-2024-0098,26-04-2024,V015,Deccan Packaging Co,Packaging,Admin,Priya Nair,165,6516.11,1075158.15,7,999897.08,Net 60,26-05-2024,28-05-2024,Delivered,No,2,Yes,Yes
+PO-2024-0099,13-02-2024,V002,Apex Components Pvt Ltd,Components,R&D,Rajesh Kumar,289,1087.72,314351.08,5,298633.53,Net 60,20-02-2024,29-02-2024,Delivered,No,9,Yes,Yes
+PO-2024-0100,04-08-2024,V013,Tech Vision Pvt Ltd,IT Equipment,IT,Divya Menon,312,4824.24,1505162.88,0,1505162.88,Net 45,11-08-2024,,Cancelled,N/A,,No,No
+PO-2024-0101,25-02-2024,V004,Nair Logistics Co,Packaging,Logistics,Suresh Patel,193,1900.3,366757.9,0,366757.9,Net 45,17-03-2024,,In Transit,N/A,,No,No
+PO-2024-0102,14-11-2024,V013,Tech Vision Pvt Ltd,IT Equipment,Production,Priya Nair,290,588.56,170682.4,7,158734.63,Net 60,29-12-2024,,Pending,N/A,,No,No
+PO-2024-0103,25-12-2024,V005,Mehta Steel Works,Raw Materials,Quality,Divya Menon,184,290.37,53428.08,10,48085.27,Net 45,15-01-2025,,Cancelled,N/A,,No,No
+PO-2024-0104,13-03-2024,V002,Apex Components Pvt Ltd,Components,Quality,Suresh Patel,179,2529.66,452809.14,0,452809.14,Net 60,20-03-2024,20-03-2024,Delivered,Yes,0,No,No
+PO-2024-0105,20-03-2024,V001,Sharma Industrials,Raw Materials,R&D,Divya Menon,30,10174.74,305242.2,0,305242.2,Immediate,03-04-2024,,Pending,N/A,,No,No
+PO-2024-0106,06-11-2024,V008,Krishna Auto Parts,Components,Quality,Arun Sharma,225,1841.17,414263.25,7,385264.82,Immediate,06-12-2024,06-12-2024,Delivered,Yes,0,No,No
+PO-2024-0107,02-11-2024,V007,Patel Packaging Ltd,Packaging,R&D,Divya Menon,153,5056.21,773600.13,0,773600.13,Immediate,09-11-2024,11-11-2024,Delivered,No,2,Yes,Yes
+PO-2024-0108,27-04-2024,V012,Coromandel Components,Components,Logistics,Rajesh Kumar,446,11182.21,4987265.66,2,4887520.35,Net 30,11-06-2024,11-06-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0109,26-07-2024,V010,Reddy Manufacturing,Raw Materials,Production,Divya Menon,490,9348.25,4580642.5,10,4122578.25,Net 60,25-08-2024,25-08-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0110,24-07-2024,V010,Reddy Manufacturing,Raw Materials,Quality,Suresh Patel,403,2688.36,1083409.08,5,1029238.63,Net 30,07-09-2024,07-09-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0111,26-11-2024,V006,SunTech Electronics,IT Equipment,IT,Divya Menon,83,11451.19,950448.77,7,883917.36,Net 30,10-12-2024,10-12-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0112,17-08-2024,V010,Reddy Manufacturing,Raw Materials,Admin,Suresh Patel,39,7140.03,278461.17,7,258968.89,Net 60,01-10-2024,01-10-2024,Delivered,Yes,0,No,No
+PO-2024-0113,07-02-2024,V009,Bangalore Office Supplies,Office Supplies,Quality,Suresh Patel,44,9741.06,428606.64,10,385745.98,Net 30,28-02-2024,03-03-2024,Delivered,No,4,Yes,Yes
+PO-2024-0114,22-01-2024,V009,Bangalore Office Supplies,Office Supplies,Quality,Priya Nair,297,9847.19,2924615.43,0,2924615.43,Immediate,21-02-2024,,Cancelled,N/A,,No,No
+PO-2024-0115,18-08-2024,V001,Sharma Industrials,Raw Materials,Quality,Priya Nair,433,5282.88,2287487.04,7,2127362.95,Net 30,25-08-2024,,In Transit,N/A,,No,No
+PO-2024-0116,06-05-2024,V001,Sharma Industrials,Raw Materials,Admin,Arun Sharma,273,7936.67,2166710.91,0,2166710.91,Net 60,05-06-2024,,Cancelled,N/A,,No,No
+PO-2024-0117,28-07-2024,V007,Patel Packaging Ltd,Packaging,Production,Arun Sharma,31,11880.56,368297.36,7,342516.54,Net 60,18-08-2024,,Pending,N/A,,No,No
+PO-2024-0118,12-10-2024,V002,Apex Components Pvt Ltd,Components,Admin,Arun Sharma,175,1406.23,246090.25,7,228863.93,Net 45,11-11-2024,21-11-2024,Delivered,No,10,Yes,Yes
+PO-2024-0119,07-03-2024,V007,Patel Packaging Ltd,Packaging,IT,Suresh Patel,48,4781.81,229526.88,2,224936.34,Net 60,21-04-2024,,Pending,N/A,,No,No
+PO-2024-0120,26-11-2024,V002,Apex Components Pvt Ltd,Components,IT,Priya Nair,114,5257.64,599370.96,10,539433.86,Immediate,26-12-2024,26-12-2024,Delivered,Yes,0,Yes,No
+PO-2024-0121,21-02-2024,V005,Mehta Steel Works,Raw Materials,R&D,Arun Sharma,432,11131.93,4808993.76,5,4568544.07,Net 30,06-04-2024,,Pending,N/A,,No,No
+PO-2024-0122,12-11-2024,V015,Deccan Packaging Co,Packaging,Production,Divya Menon,399,9446.16,3769017.84,0,3769017.84,Immediate,26-11-2024,01-12-2024,Delivered,No,5,Yes,Yes
+PO-2024-0123,08-11-2024,V008,Krishna Auto Parts,Components,Admin,Divya Menon,406,6844.13,2778716.78,5,2639780.94,Net 45,29-11-2024,,Pending,N/A,,No,No
+PO-2024-0124,09-04-2024,V015,Deccan Packaging Co,Packaging,Logistics,Suresh Patel,297,14769.71,4386603.87,2,4298871.79,Net 60,30-04-2024,,Pending,N/A,,No,No
+PO-2024-0125,02-08-2024,V009,Bangalore Office Supplies,Office Supplies,Production,Divya Menon,415,9149.02,3796843.3,10,3417158.97,Net 60,16-08-2024,,In Transit,N/A,,No,No
+PO-2024-0126,09-07-2024,V014,Sri Lakshmi Traders,Raw Materials,Admin,Rajesh Kumar,369,12719.21,4693388.49,10,4224049.64,Net 30,23-08-2024,,Cancelled,N/A,,No,No
+PO-2024-0127,23-03-2024,V013,Tech Vision Pvt Ltd,IT Equipment,Production,Divya Menon,471,3486.16,1641981.36,2,1609141.73,Net 60,13-04-2024,13-04-2024,Delivered,Yes,0,No,No
+PO-2024-0128,10-07-2024,V009,Bangalore Office Supplies,Office Supplies,IT,Priya Nair,481,1666.43,801552.83,7,745444.13,Net 60,24-07-2024,24-07-2024,Delivered,Yes,0,No,No
+PO-2024-0129,29-08-2024,V015,Deccan Packaging Co,Packaging,Production,Arun Sharma,245,6839.3,1675628.5,0,1675628.5,Net 30,12-09-2024,,Pending,N/A,,No,No
+PO-2024-0130,17-03-2024,V004,Nair Logistics Co,Packaging,IT,Arun Sharma,316,8011.02,2531482.32,0,2531482.32,Net 60,01-05-2024,,Cancelled,N/A,,No,No
+PO-2024-0131,25-01-2024,V002,Apex Components Pvt Ltd,Components,R&D,Suresh Patel,468,7597.47,3555615.96,5,3377835.16,Net 30,08-02-2024,08-02-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0132,07-08-2024,V005,Mehta Steel Works,Raw Materials,Quality,Suresh Patel,347,1467.09,509080.23,0,509080.23,Net 30,14-08-2024,14-08-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0133,11-01-2024,V009,Bangalore Office Supplies,Office Supplies,R&D,Rajesh Kumar,27,9607.93,259414.11,0,259414.11,Net 60,10-02-2024,,In Transit,N/A,,No,No
+PO-2024-0134,04-02-2024,V006,SunTech Electronics,IT Equipment,Admin,Suresh Patel,381,11398.85,4342961.85,0,4342961.85,Net 30,25-02-2024,28-02-2024,Delivered,No,3,Yes,Yes
+PO-2024-0135,16-12-2024,V014,Sri Lakshmi Traders,Raw Materials,Production,Divya Menon,250,9549.69,2387422.5,10,2148680.25,Net 45,15-01-2025,,Cancelled,N/A,,No,No
+PO-2024-0136,30-05-2024,V001,Sharma Industrials,Raw Materials,Admin,Rajesh Kumar,268,6093.72,1633116.96,10,1469805.26,Immediate,13-06-2024,29-06-2024,Delivered,No,16,Yes,No
+PO-2024-0137,25-01-2024,V006,SunTech Electronics,IT Equipment,Logistics,Divya Menon,463,14355.89,6646777.07,0,6646777.07,Net 45,15-02-2024,17-02-2024,Delivered,No,2,Yes,Yes
+PO-2024-0138,12-02-2024,V005,Mehta Steel Works,Raw Materials,Admin,Divya Menon,169,1718.45,290418.05,0,290418.05,Net 60,13-03-2024,13-03-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0139,15-08-2024,V012,Coromandel Components,Components,Production,Divya Menon,227,4263.42,967796.34,10,871016.71,Net 30,05-09-2024,08-09-2024,Delivered,No,3,Yes,Yes
+PO-2024-0140,22-03-2024,V011,Infra Solutions India,Services,Admin,Divya Menon,39,3692.73,144016.47,7,133935.32,Net 60,29-03-2024,29-03-2024,Delivered,Yes,0,Yes,No
+PO-2024-0141,13-12-2024,V003,GlobalTech Supplies,IT Equipment,Quality,Arun Sharma,195,6770.3,1320208.5,0,1320208.5,Net 45,12-01-2025,,Cancelled,N/A,,No,No
+PO-2024-0142,09-06-2024,V007,Patel Packaging Ltd,Packaging,Admin,Divya Menon,203,13720.43,2785247.29,0,2785247.29,Net 60,30-06-2024,30-06-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0143,08-09-2024,V012,Coromandel Components,Components,R&D,Arun Sharma,232,14959.48,3470599.36,10,3123539.42,Net 60,22-09-2024,29-09-2024,Delivered,No,7,Yes,Yes
+PO-2024-0144,02-06-2024,V005,Mehta Steel Works,Raw Materials,Quality,Priya Nair,479,10563.24,5059791.96,0,5059791.96,Net 60,16-06-2024,,Pending,N/A,,No,No
+PO-2024-0145,12-04-2024,V002,Apex Components Pvt Ltd,Components,Quality,Rajesh Kumar,193,7117.61,1373698.73,5,1305013.79,Net 45,26-04-2024,26-04-2024,Delivered,Yes,0,No,No
+PO-2024-0146,02-09-2024,V007,Patel Packaging Ltd,Packaging,R&D,Suresh Patel,167,9706.61,1621003.87,2,1588583.79,Immediate,17-10-2024,17-10-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0147,09-10-2024,V013,Tech Vision Pvt Ltd,IT Equipment,Admin,Priya Nair,33,12504.58,412651.14,5,392018.58,Net 45,23-11-2024,30-11-2024,Delivered,No,7,Yes,Yes
+PO-2024-0148,26-06-2024,V004,Nair Logistics Co,Packaging,IT,Arun Sharma,438,1367.13,598802.94,0,598802.94,Net 60,10-08-2024,,In Transit,N/A,,No,No
+PO-2024-0149,30-09-2024,V010,Reddy Manufacturing,Raw Materials,Quality,Rajesh Kumar,342,9442.29,3229263.18,5,3067800.02,Net 60,07-10-2024,07-10-2024,Delivered,Yes,0,Yes,No
+PO-2024-0150,24-11-2024,V001,Sharma Industrials,Raw Materials,R&D,Arun Sharma,332,648.23,215212.36,7,200147.49,Net 60,08-01-2025,08-01-2025,Delivered,Yes,0,Yes,Yes
+PO-2024-0151,26-07-2024,V011,Infra Solutions India,Services,Admin,Arun Sharma,252,7073.74,1782582.48,0,1782582.48,Net 45,16-08-2024,16-08-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0152,07-03-2024,V007,Patel Packaging Ltd,Packaging,Production,Arun Sharma,141,6854.02,966416.82,0,966416.82,Net 30,28-03-2024,28-03-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0153,07-05-2024,V007,Patel Packaging Ltd,Packaging,IT,Divya Menon,483,8749.77,4226138.91,0,4226138.91,Net 45,21-05-2024,,In Transit,N/A,,No,No
+PO-2024-0154,27-08-2024,V009,Bangalore Office Supplies,Office Supplies,IT,Priya Nair,259,543.01,140639.59,2,137826.8,Immediate,26-09-2024,,In Transit,N/A,,No,No
+PO-2024-0155,29-06-2024,V010,Reddy Manufacturing,Raw Materials,Admin,Arun Sharma,9,12738.15,114643.35,2,112350.48,Net 45,06-07-2024,06-07-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0156,27-01-2024,V007,Patel Packaging Ltd,Packaging,Quality,Suresh Patel,263,6865.24,1805558.12,5,1715280.21,Net 60,12-03-2024,12-03-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0157,10-07-2024,V007,Patel Packaging Ltd,Packaging,Production,Priya Nair,265,6140.53,1627240.45,0,1627240.45,Net 30,31-07-2024,31-07-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0158,21-08-2024,V009,Bangalore Office Supplies,Office Supplies,Quality,Arun Sharma,168,2605.03,437645.04,5,415762.79,Net 60,04-09-2024,20-09-2024,Delivered,No,16,Yes,Yes
+PO-2024-0159,28-12-2024,V008,Krishna Auto Parts,Components,Quality,Divya Menon,218,8838.79,1926856.22,10,1734170.6,Net 30,11-02-2025,12-02-2025,Delivered,No,1,Yes,Yes
+PO-2024-0160,23-10-2024,V013,Tech Vision Pvt Ltd,IT Equipment,IT,Priya Nair,327,10873.51,3555637.77,10,3200073.99,Immediate,07-12-2024,07-12-2024,Delivered,Yes,0,No,No
+PO-2024-0161,26-02-2024,V012,Coromandel Components,Components,R&D,Rajesh Kumar,109,6273.59,683821.31,10,615439.18,Immediate,11-03-2024,11-03-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0162,15-06-2024,V009,Bangalore Office Supplies,Office Supplies,Quality,Divya Menon,180,8284.84,1491271.2,7,1386882.22,Net 60,15-07-2024,20-07-2024,Delivered,No,5,Yes,Yes
+PO-2024-0163,01-06-2024,V009,Bangalore Office Supplies,Office Supplies,R&D,Divya Menon,157,11613.38,1823300.66,7,1695669.61,Net 45,15-06-2024,,Cancelled,N/A,,No,No
+PO-2024-0164,02-09-2024,V006,SunTech Electronics,IT Equipment,IT,Arun Sharma,351,8239.22,2891966.22,2,2834126.9,Net 60,23-09-2024,23-09-2024,Delivered,Yes,0,No,No
+PO-2024-0165,10-02-2024,V012,Coromandel Components,Components,IT,Suresh Patel,340,3995.37,1358425.8,2,1331257.28,Net 45,02-03-2024,,Cancelled,N/A,,No,No
+PO-2024-0166,14-10-2024,V005,Mehta Steel Works,Raw Materials,R&D,Priya Nair,30,10113.54,303406.2,5,288235.89,Net 45,04-11-2024,04-11-2024,Delivered,Yes,0,No,No
+PO-2024-0167,18-06-2024,V007,Patel Packaging Ltd,Packaging,R&D,Priya Nair,85,6222.23,528889.55,2,518311.76,Immediate,18-07-2024,06-08-2024,Delivered,No,19,Yes,Yes
+PO-2024-0168,26-11-2024,V005,Mehta Steel Works,Raw Materials,IT,Divya Menon,50,9854.02,492701,0,492701,Net 30,03-12-2024,,Cancelled,N/A,,No,No
+PO-2024-0169,31-03-2024,V015,Deccan Packaging Co,Packaging,Production,Rajesh Kumar,208,11861.82,2467258.56,0,2467258.56,Net 60,07-04-2024,,Cancelled,N/A,,No,No
+PO-2024-0170,17-10-2024,V005,Mehta Steel Works,Raw Materials,Admin,Priya Nair,283,7959.91,2252654.53,0,2252654.53,Immediate,01-12-2024,19-12-2024,Delivered,No,18,Yes,Yes
+PO-2024-0171,22-08-2024,V012,Coromandel Components,Components,Quality,Priya Nair,12,11101.94,133223.28,10,119900.95,Net 60,12-09-2024,,Pending,N/A,,No,No
+PO-2024-0172,08-11-2024,V003,GlobalTech Supplies,IT Equipment,IT,Priya Nair,268,5053.31,1354287.08,2,1327201.34,Net 30,08-12-2024,,In Transit,N/A,,No,No
+PO-2024-0173,14-06-2024,V008,Krishna Auto Parts,Components,Admin,Arun Sharma,493,5078.45,2503675.85,5,2378492.06,Net 30,28-06-2024,30-06-2024,Delivered,No,2,Yes,No
+PO-2024-0174,26-08-2024,V002,Apex Components Pvt Ltd,Components,Quality,Priya Nair,332,13758.73,4567898.36,0,4567898.36,Net 60,16-09-2024,19-09-2024,Delivered,No,3,Yes,No
+PO-2024-0175,20-08-2024,V003,GlobalTech Supplies,IT Equipment,R&D,Suresh Patel,415,10028.6,4161869,0,4161869,Net 45,04-10-2024,07-10-2024,Delivered,No,3,Yes,No
+PO-2024-0176,27-09-2024,V008,Krishna Auto Parts,Components,IT,Arun Sharma,467,7681.21,3587125.07,5,3407768.82,Net 45,18-10-2024,22-10-2024,Delivered,No,4,Yes,Yes
+PO-2024-0177,15-04-2024,V011,Infra Solutions India,Services,Quality,Divya Menon,267,6348.28,1694990.76,5,1610241.22,Net 30,30-05-2024,30-05-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0178,21-07-2024,V001,Sharma Industrials,Raw Materials,Logistics,Arun Sharma,386,3424.94,1322026.84,0,1322026.84,Net 30,11-08-2024,,In Transit,N/A,,No,No
+PO-2024-0179,02-02-2024,V012,Coromandel Components,Components,Admin,Divya Menon,483,13434.43,6488829.69,2,6359053.1,Net 30,18-03-2024,,Cancelled,N/A,,No,No
+PO-2024-0180,10-03-2024,V003,GlobalTech Supplies,IT Equipment,R&D,Arun Sharma,354,14469.34,5122146.36,10,4609931.72,Net 45,09-04-2024,09-04-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0181,27-09-2024,V007,Patel Packaging Ltd,Packaging,Admin,Divya Menon,119,12555.36,1494087.84,10,1344679.06,Net 30,11-10-2024,,Pending,N/A,,No,No
+PO-2024-0182,05-10-2024,V011,Infra Solutions India,Services,Production,Divya Menon,146,2989.51,436468.46,7,405915.67,Net 30,04-11-2024,04-11-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0183,09-01-2024,V015,Deccan Packaging Co,Packaging,R&D,Rajesh Kumar,349,10608.64,3702415.36,0,3702415.36,Net 45,23-01-2024,23-01-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0184,29-01-2024,V004,Nair Logistics Co,Packaging,IT,Arun Sharma,311,11633.57,3618040.27,10,3256236.24,Net 60,12-02-2024,12-02-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0185,23-04-2024,V009,Bangalore Office Supplies,Office Supplies,Quality,Divya Menon,471,2791.97,1315017.87,7,1222966.62,Immediate,23-05-2024,31-05-2024,Delivered,No,8,No,No
+PO-2024-0186,25-11-2024,V006,SunTech Electronics,IT Equipment,Admin,Divya Menon,168,10505.36,1764900.48,2,1729602.47,Net 45,25-12-2024,,Pending,N/A,,No,No
+PO-2024-0187,02-10-2024,V003,GlobalTech Supplies,IT Equipment,Quality,Suresh Patel,473,1052.83,497988.59,2,488028.82,Immediate,01-11-2024,07-11-2024,Delivered,No,6,Yes,Yes
+PO-2024-0188,18-06-2024,V004,Nair Logistics Co,Packaging,Production,Arun Sharma,438,5691.95,2493074.1,5,2368420.4,Net 45,25-06-2024,,Cancelled,N/A,,No,No
+PO-2024-0189,10-12-2024,V007,Patel Packaging Ltd,Packaging,Admin,Rajesh Kumar,291,3411.84,992845.44,0,992845.44,Net 60,24-01-2025,25-01-2025,Delivered,No,1,Yes,No
+PO-2024-0190,01-03-2024,V012,Coromandel Components,Components,IT,Suresh Patel,361,9145.14,3301395.54,0,3301395.54,Immediate,31-03-2024,,Cancelled,N/A,,No,No
+PO-2024-0191,24-05-2024,V006,SunTech Electronics,IT Equipment,R&D,Divya Menon,267,13265.62,3541920.54,2,3471082.13,Net 30,23-06-2024,23-06-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0192,08-07-2024,V004,Nair Logistics Co,Packaging,Admin,Priya Nair,13,4059.46,52772.98,5,50134.33,Immediate,29-07-2024,01-08-2024,Delivered,No,3,Yes,Yes
+PO-2024-0193,05-05-2024,V010,Reddy Manufacturing,Raw Materials,Logistics,Priya Nair,255,14504.32,3698601.6,7,3439699.49,Immediate,04-06-2024,07-06-2024,Delivered,No,3,Yes,Yes
+PO-2024-0194,06-10-2024,V003,GlobalTech Supplies,IT Equipment,Production,Divya Menon,434,12731.12,5525306.08,10,4972775.47,Net 30,05-11-2024,05-11-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0195,28-12-2024,V002,Apex Components Pvt Ltd,Components,R&D,Divya Menon,331,10067.97,3332498.07,5,3165873.17,Immediate,11-01-2025,11-01-2025,Delivered,Yes,0,No,No
+PO-2024-0196,09-10-2024,V009,Bangalore Office Supplies,Office Supplies,IT,Rajesh Kumar,151,453.71,68510.21,10,61659.19,Immediate,08-11-2024,08-11-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0197,08-04-2024,V004,Nair Logistics Co,Packaging,R&D,Priya Nair,496,6209.21,3079768.16,5,2925779.75,Net 45,23-05-2024,23-05-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0198,30-11-2024,V002,Apex Components Pvt Ltd,Components,Logistics,Divya Menon,331,339.86,112493.66,0,112493.66,Net 30,07-12-2024,07-12-2024,Delivered,Yes,0,Yes,Yes
+PO-2024-0199,18-02-2024,V014,Sri Lakshmi Traders,Raw Materials,Admin,Rajesh Kumar,122,3328.97,406134.34,10,365520.91,Immediate,03-04-2024,,Cancelled,N/A,,No,No
+PO-2024-0200,08-02-2024,V015,Deccan Packaging Co,Packaging,Production,Priya Nair,293,9940.02,2912425.86,0,2912425.86,Net 60,29-02-2024,,In Transit,N/A,,No,No
