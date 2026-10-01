@@ -8,8 +8,7 @@ Dataset: 200 purchase orders across 15 vendors
 2. Total spending by department and category
 3. Vendor discount analysis with percentage calculation
 4. Delivery status tracker with CASE statement categorisation
-5. Monthly spend trend analysis
-6. Department savings and average PO value comparison
+5. Department savings and average PO value comparison
 
 ## Key Concepts Used
 - GROUP BY and ORDER BY
